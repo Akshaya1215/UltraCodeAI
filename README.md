@@ -47,6 +47,8 @@ It works with both local models (privacy-first) and cloud models (frontier capab
 
 Folder hints (typical layout):
 ---bash---
+# Folder hints (typical layout):
+
   UltraCodeAI/src/main/java/com/
 ├─ ui/
 │ ├─ window/ # Tool windows (UltraCodeAI, MCP logs)
@@ -58,9 +60,6 @@ Folder hints (typical layout):
 │ ├─ rag/ # Indexer & retrieval (optional, pluggable)
 │ └─ mcp/ # MCP execution/logging (optional)
 └─ chatmodel/ # Local & cloud provider services
-
-
-
 ---bash---
 
 ## 📦 Installation
